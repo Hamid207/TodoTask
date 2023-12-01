@@ -131,9 +131,9 @@ function removeItem(id) {
 //Input - EVENT
 input.addEventListener("input", () => {
   if (input.value === "") {
-    inputValueDeleteBtn.style.opacity = 0;
+    inputValueDeleteBtn.style.display = "none";
   } else {
-    inputValueDeleteBtn.style.opacity = 1;
+    inputValueDeleteBtn.style.display = "block";
   }
 });
 

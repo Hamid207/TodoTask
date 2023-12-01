@@ -68,8 +68,8 @@ ul {
   height: 20px;
   border-radius: 10px;
   background-size: cover;
-  opacity: 0;
-  /* display: none; */
+  /* opacity: 0; */
+  display: none;
 }
 
 .inputBody {
