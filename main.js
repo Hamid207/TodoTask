@@ -1,4 +1,3 @@
-//BUG - Eger yeni eleva edilen todo itmesde var onu elave etmesin
 const form = document.querySelector(".formTodo");
 const input = document.querySelector(".inputTodo");
 const inputValueDeleteBtn = document.querySelector(".input_value_remvuve_btn");
